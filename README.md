@@ -7,7 +7,13 @@ Greece reported its first case of coronavirus disease 2019 (COVID-19) on
 
 ### Methods
 We consider the well-known SIR (susceptible-infected-recovered) compartmental model which is described by the following system of ODEs:
-
+```markdown
+\begin{align}\begin{split}
+\frac{\mathrm{d}S_t}{\mathrm{d}t} & = - \frac{\beta_t}{N} S_t I_{t}\\
+\frac{\mathrm{d}I_{t}}{\mathrm{d}t} & = \frac{\beta_t}{N} S_t I_{t} - \gamma I_{t}\\
+\frac{\mathrm{d}R_{t}}{\mathrm{d}t} & =  \gamma I_{t}
+\end{split}\end{align}
+```
 ### Results
 
 ## Welcome to GitHub Pages
