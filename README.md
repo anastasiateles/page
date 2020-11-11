@@ -1,3 +1,13 @@
+#### Important note: This report is work in progress and has not been peer-review. The short-term predictions need to be interpreted with caution (also see Notes).
+
+### Introduction
+Greece reported its first case of coronavirus disease 2019 (COVID-19) on 
+
+### Methods
+We consider the well-known SIR (susceptible-infected-recovered) compartmental model which is described by the following system of ODEs:
+
+### Results
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/anastasiateles/page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
