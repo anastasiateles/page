@@ -7,13 +7,7 @@ Greece reported its first case of coronavirus disease 2019 (COVID-19) on
 
 ### Methods
 We consider the well-known SIR (susceptible-infected-recovered) compartmental model which is described by the following system of ODEs:
-```markdown
-\begin{align}\begin{split}
-\frac{\mathrm{d}S_t}{\mathrm{d}t} & = - \frac{\beta_t}{N} S_t I_{t}\\
-\frac{\mathrm{d}I_{t}}{\mathrm{d}t} & = \frac{\beta_t}{N} S_t I_{t} - \gamma I_{t}\\
-\frac{\mathrm{d}R_{t}}{\mathrm{d}t} & =  \gamma I_{t}
-\end{split}\end{align}
-```
+![ode](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign%7D%5Cbegin%7Bsplit%7D%20%5Cfrac%7B%5Cmathrm%7Bd%7DS_t%7D%7B%5Cmathrm%7Bd%7Dt%7D%20%26%20%3D%20-%20%5Cfrac%7B%5Cbeta_t%7D%7BN%7D%20S_t%20I_%7Bt%7D%5C%5C%20%5Cfrac%7B%5Cmathrm%7Bd%7DI_%7Bt%7D%7D%7B%5Cmathrm%7Bd%7Dt%7D%20%26%20%3D%20%5Cfrac%7B%5Cbeta_t%7D%7BN%7D%20S_t%20I_%7Bt%7D%20-%20%5Cgamma%20I_%7Bt%7D%5C%5C%20%5Cfrac%7B%5Cmathrm%7Bd%7DR_%7Bt%7D%7D%7B%5Cmathrm%7Bd%7Dt%7D%20%26%20%3D%20%5Cgamma%20I_%7Bt%7D%20%5Cend%7Bsplit%7D%5Cend%7Balign%7D)
 ### Results
 
 ## Welcome to GitHub Pages
