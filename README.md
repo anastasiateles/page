@@ -1,6 +1,6 @@
 # A modelling framework for the analysis of the transmission of SARS-CoV2 in Greece: some early findings
 
-#### Important note: This report is work in progress and has not been peer-review. The short-term predictions need to be interpreted with caution (also see Notes).
+#### Important note: This report is work in progress and has not been peer-review. The short-term predictions need to be interpreted with caution.
 
 ### Introduction
 Greece reported its first case of coronavirus disease 2019 (COVID-19) on 
