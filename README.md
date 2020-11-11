@@ -1,4 +1,4 @@
-# Real-time modeling and predictions of the COVID-19 epidemic in Greece
+# A modelling framework for the analysis of the transmission of SARS-CoV2 in Greece: some early findings
 
 #### Important note: This report is work in progress and has not been peer-review. The short-term predictions need to be interpreted with caution (also see Notes).
 
